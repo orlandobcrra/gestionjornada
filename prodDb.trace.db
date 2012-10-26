@@ -1,0 +1,100 @@
+10-25 22:24:30 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EMPLEADO_CLIENTE" no encontrada
+Table "EMPLEADO_CLIENTE" not found; SQL statement:
+alter table empleado_cliente drop constraint FK9B3D328634831FB8 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EMPLEADO_CLIENTE" no encontrada
+Table "EMPLEADO_CLIENTE" not found; SQL statement:
+alter table empleado_cliente drop constraint FK9B3D3286E0FA2F21 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EMPLEADO_CLIENTE" no encontrada
+Table "EMPLEADO_CLIENTE" not found; SQL statement:
+alter table empleado_cliente drop constraint FK9B3D3286A573FC55 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ENTRADA" no encontrada
+Table "ENTRADA" not found; SQL statement:
+alter table entrada drop constraint FKA12266571F4DB7D3 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ENTRADA" no encontrada
+Table "ENTRADA" not found; SQL statement:
+alter table entrada drop constraint FKA1226657E0FA2F21 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ENTRETENIMIENTO_PERSONA" no encontrada
+Table "ENTRETENIMIENTO_PERSONA" not found; SQL statement:
+alter table entretenimiento_persona drop constraint FK21064EB7E0FA2F21 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ENTRETENIMIENTO_PERSONA" no encontrada
+Table "ENTRETENIMIENTO_PERSONA" not found; SQL statement:
+alter table entretenimiento_persona drop constraint FK21064EB7958EB61 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO" no encontrada
+Table "EVENTO" not found; SQL statement:
+alter table evento drop constraint FKB307E1153A7DB413 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO" no encontrada
+Table "EVENTO" not found; SQL statement:
+alter table evento drop constraint FKB307E115958EB61 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO" no encontrada
+Table "EVENTO" not found; SQL statement:
+alter table evento drop constraint FKB307E1151839E31C [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_EMPLEADO" no encontrada
+Table "EVENTO_EMPLEADO" not found; SQL statement:
+alter table evento_empleado drop constraint FKA7CEB8B51F4DB7D3 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_EMPLEADO" no encontrada
+Table "EVENTO_EMPLEADO" not found; SQL statement:
+alter table evento_empleado drop constraint FKA7CEB8B538D5B20A [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_MENU" no encontrada
+Table "EVENTO_MENU" not found; SQL statement:
+alter table evento_menu drop constraint FK35005249D4631861 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_MENU" no encontrada
+Table "EVENTO_MENU" not found; SQL statement:
+alter table evento_menu drop constraint FK350052491F4DB7D3 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_SALON" no encontrada
+Table "EVENTO_SALON" not found; SQL statement:
+alter table evento_salon drop constraint FK6B5CAA93D8C5E741 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "EVENTO_SALON" no encontrada
+Table "EVENTO_SALON" not found; SQL statement:
+alter table evento_salon drop constraint FK6B5CAA931F4DB7D3 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "INGREDIENTE" no encontrada
+Table "INGREDIENTE" not found; SQL statement:
+alter table ingrediente drop constraint FK829BC8B4D4631861 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "INVITACION_CLIENTE" no encontrada
+Table "INVITACION_CLIENTE" not found; SQL statement:
+alter table invitacion_cliente drop constraint FK41CE00051F4DB7D3 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "INVITACION_CLIENTE" no encontrada
+Table "INVITACION_CLIENTE" not found; SQL statement:
+alter table invitacion_cliente drop constraint FK41CE0005E0FA2F21 [42102-164]
+10-25 22:24:31 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "PLATO" no encontrada
+Table "PLATO" not found; SQL statement:
+alter table plato drop constraint FK65CDB203A7DB413 [42102-164]
+10-25 22:24:32 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "PLATO" no encontrada
+Table "PLATO" not found; SQL statement:
+alter table plato drop constraint FK65CDB20D9CD42B8 [42102-164]
+10-25 22:24:32 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "PLATO_INGREDIENTE" no encontrada
+Table "PLATO_INGREDIENTE" not found; SQL statement:
+alter table plato_ingrediente drop constraint FKA0D55215D4631861 [42102-164]
+10-25 22:24:32 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "PLATO_INGREDIENTE" no encontrada
+Table "PLATO_INGREDIENTE" not found; SQL statement:
+alter table plato_ingrediente drop constraint FKA0D5521584B066A1 [42102-164]
+10-25 22:24:32 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "USUARIO_ROL" no encontrada
+Table "USUARIO_ROL" not found; SQL statement:
+alter table usuario_rol drop constraint FK3118953E30E0B104 [42102-164]
+10-25 22:24:32 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "USUARIO_ROL" no encontrada
+Table "USUARIO_ROL" not found; SQL statement:
+alter table usuario_rol drop constraint FK3118953E74065BA4 [42102-164]
